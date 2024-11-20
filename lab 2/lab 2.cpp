@@ -9,7 +9,7 @@ int main()
     int n;
     char restart;
     bool correctInput;
-    //231
+    //213d
     do {
         cout << "Set the way of input 123 " << endl;
 
