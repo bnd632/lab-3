@@ -9,9 +9,9 @@ int main()
     int n;
     char restart;
     bool correctInput;
-
+    //hi
     do {
-        cout << "Set the way of input " << endl;
+        cout << "Set the way of input 123 " << endl;
 
         correctInput = false;
         do {
